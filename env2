@@ -1,0 +1,8 @@
+PORT=3000
+DB_HOST=localhost
+DB_USER=kurkayayazilim
+DB_PASS=1234kurkaya
+DB_NAME=busrabalcik
+REDIS_URL=redis://localhost:6379
+JWT_SECRET=kurkayayazilimDgXi2oasd-busrabalcikk*
+NODE_ENV=development
